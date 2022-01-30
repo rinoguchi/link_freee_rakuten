@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "execute": "tsc && node dist/script.js"
+  },
+  "dependencies": {
+    "puppeteer": "^13.1.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "private": true
+}
