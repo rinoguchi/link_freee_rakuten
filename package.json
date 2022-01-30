@@ -3,10 +3,14 @@
     "execute": "tsc && node dist/script.js"
   },
   "dependencies": {
+    "@types/puppeteer": "^5.4.4",
     "puppeteer": "^13.1.2"
   },
   "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "dotenv": "^14.3.2",
     "typescript": "^4.5.5"
   },
-  "private": true
+  "private": true,
+  "type": "module"
 }

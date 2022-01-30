@@ -13,3 +13,8 @@ yarn install
 ```sh
 yarn execute
 ```
+
+## disclaimer
+
+The purpose of this repository is to provide information as a sample.
+I will not be held liable for any damage that may be caused by using the information.
