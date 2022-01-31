@@ -1,6 +1,8 @@
 # link_freee_rakten
 
-This is a script that downloads CSV from Rakuten Bank and uploads it to Kaikei Freee.
+This is a script that downloads CSV from Rakuten Bank Personal Business Account and uploads it to Kaikei Freee.
+
+これは、楽天銀行個人ビジネス口座から CSV をダウンロードして、会計 Freee にアップロードするスクリプトです。
 
 ## install
 
@@ -35,3 +37,6 @@ yarn execute
 
 The purpose of this repository is to provide information as a sample.
 I will not be held liable for any damage that may be caused by using the information.
+
+このリポジトリは、サンプルとして情報を提供することを目的としています。
+本情報を利用したことにより生じたいかなる損害についても、私は一切の責任を負いません。
