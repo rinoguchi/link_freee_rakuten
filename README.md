@@ -1,4 +1,4 @@
-# link_freee_rakten
+# link_freee_rakuten
 
 This is a script that downloads CSV from Rakuten Bank Personal Business Account and uploads it to Kaikei Freee.
 

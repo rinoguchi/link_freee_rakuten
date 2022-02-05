@@ -2,7 +2,7 @@ import puppeteer, { Browser } from 'puppeteer';
 import 'dotenv/config';
 import fs from 'fs';
 
-/** 楽天ビジネス銀行よりCSVダウンロード */
+/** 楽天銀行個人ビジネス口座よりCSVダウンロード */
 const downloadFromRakuten = async (browser: Browser) => {
   // 既存のCSVファイルがあれば削除
   try {
